@@ -27,7 +27,7 @@
 **APIs & Integration**: REST API, OpenAPI, Postman  
 **Productivity & Design Tools**: Figma, Notion, Obsidian  
 **Dev Tools**: Git, Docker
-
+/*
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/KPAAS-000000?style=flat&logo=github&logoColor=white"/>
 </p>
-
+*/
 ---
 
 ## 📊 GitHub Stats
