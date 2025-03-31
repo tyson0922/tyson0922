@@ -17,8 +17,6 @@
 - ✉️ [taeseung92l@gmail.com]
 ---
 
-## 🛠️ Languages & Tools I learned and Used
-
 ## 🛠️ Languages & Tools I Learned and Used
 
 **Programming Languages**: Java, Python, JavaScript, C, R  
