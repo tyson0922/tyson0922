@@ -12,6 +12,7 @@
 💬 Ask me about:
 - API integration, data analysis, and backend logic
 - Connecting frontend and backend efficiently
+- Actually I don't know anything. My answers from chatGPT. That's all.
 
 📫 How to reach me:
 - ✉️ [taeseung92l@gmail.com]
@@ -26,7 +27,7 @@
 
 ### 🧰 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=pink)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
